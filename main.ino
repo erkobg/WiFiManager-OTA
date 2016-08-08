@@ -81,4 +81,5 @@ void setup() {
 
 void loop() {
   ArduinoOTA.handle();
+  //any custom code or logic goes here
 }
